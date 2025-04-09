@@ -101,7 +101,7 @@ body {
     background-color: #0060b3;
   }
   body {
-    background-image: url("fondo-uam.png.png"); /* o simplemente "image.png" si está en la misma carpeta */
+    background-image: url("fondo-uam.png"); /* o simplemente "image.png" si está en la misma carpeta */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
