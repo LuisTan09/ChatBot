@@ -1,0 +1,73 @@
+[
+  {
+    "tema": "Misión",
+    "descripcion": "Somos una comunidad educadora, incluyente, dinamizadora del conocimiento, comprometida con la convivencia pacífica y el desarrollo sostenible.",
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/sobre-la-uam"
+  },
+  {
+    "tema": "Visión 2030",
+    "descripcion": "Seremos una universidad aliada con la región y el país, comprometida con la innovación y la sostenibilidad.",
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/sobre-la-uam"
+  },
+  {
+    "tema": "Valores Institucionales",
+    "descripcion": "La UAM promueve los valores de Autonomía, Honestidad, Solidaridad, Excelencia, Criticidad y Respeto.",
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/sobre-la-uam"
+  },
+  {
+    "tema": "Oferta Académica",
+    "descripcion": "La UAM ofrece programas de pregrado, posgrado, educación continuada, idiomas y formación virtual.",
+    "url": "https://www.autonoma.edu.co/programas"
+  },
+  {
+    "tema": "Facultades",
+    "descripcion": "La universidad tiene facultades como: Ciencias de la Salud, Ciencias Sociales y Humanas, Ciencias Básicas, Ingeniería y Ciencias Administrativas.",
+    "url": "https://www.autonoma.edu.co/programas"
+  },
+  {
+    "tema": "Inscripciones",
+    "descripcion": "Puedes realizar el proceso de inscripción en línea a través del sitio web oficial.",
+    "url": "https://intrauam.autonoma.edu.co/inscripcion/"
+  },
+  {
+    "tema": "Becas",
+    "descripcion": "La Universida Autonoma de Manizales ofrece diferentes tipos de becas: socioeconómicas, mérito académico, talento cultural o deportivo, entre otras.",
+    "url": "https://www.autonoma.edu.co/apoyos/programas-de-becas"
+  },
+  {
+    "tema": "Validación de inglés",
+    "descripcion": "La validación de inglés se puede realizar mediante prueba institucional El proceso inicia desde la coordinación del programa.",
+    "url": "https://www.autonoma.edu.co"
+  },
+  {
+    "tema": "Homologación de inglés",
+    "descripcion":"Para cargar homologación de inglés, se debe presentar solicitud con la carta de aprobación emitida por el instituto de idiomas. El proceso inicia en la Mesa de Servicio.",
+    "url": "https://webgrid.autonoma.edu.co/uamvirtual/mod/hvp/view.php?id=880887"
+  },
+  {
+    "tema": "Biblioteca",
+    "descripcion": "La Universida Autonoma de Manizales cuenta con una biblioteca moderna, acceso a bases de datos científicas, libros físicos y digitales.",
+    "url": "https://www.autonoma.edu.co/biblioteca"
+  },
+  {
+    "tema": "Pasos para homologación",
+    "descripcion": "1️⃣ Verifica en el Listado de Notas del Drive los datos del estudiante. 2️⃣ Revisa que no tenga niveles inscritos. 3️⃣ Consulta 'Mis Pagos' con el documento. 4️⃣ Carga en UXXI desde: Expedientes → Convalidaciones → Manual. 5️⃣ Nota mínima: 3.5 externa, 3.0 interna. 6️⃣ Marca el listado en verde.",
+    "url": "https://www.autonoma.edu.co"
+  },
+  {
+    "tema": "Requisitos para carta de homologación",
+    "descripcion": "Debe incluir: nombre completo, documento, programa, tabla de niveles homologados con nota, mensaje de aprobación y firma de Coordinación. Debe coincidir con el listado de notas. No debe modificarse.",
+    "url": "https://www.autonoma.edu.co"
+  },
+  {
+    "tema": "Carga en UXXI",
+    "descripcion": "Ve a Expedientes > Convalidaciones > Manual. Ingresa documento del estudiante. Selecciona tipo: C (Convalidación), universidad: 1825, asignatura: (ej. 151601), estado: Aprobado, nota: AP + calificación.",
+    "url": "https://www.autonoma.edu.co"
+  },
+  {
+    "tema": "Nota mínima homologación",
+    "descripcion": "Interna: 3.0 | Externa: 3.5 | Reingreso: 3.2. Verifica que la nota esté en el listado y coincida con la carta antes de cargar en sistema.",
+    "url": "https://www.autonoma.edu.co"
+  }
+]
+
